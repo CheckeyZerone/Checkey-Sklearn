@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = """
 自己平时会使用的一些统计学和数学模型,目前有两个改进的朴素贝叶斯算法和一个TOPSIS
 """
@@ -11,7 +11,7 @@ LONG_DESCRIPTION = """
 
 GitHub: [https://github.com/CheckeyZerone/Checkey-Sklearn](https://github.com/CheckeyZerone/Checkey-Sklearn)
 
-PyPI: [https://pypi.org/project/csklearing/](https://pypi.org/project/csklearing/)
+PyPI: [https://pypi.org/project/checkey-sklearn/](https://pypi.org/project/checkey-sklearn/)
 
 ## 版权声明
     Checkey-Sklearn

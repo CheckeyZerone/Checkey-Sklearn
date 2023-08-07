@@ -1,7 +1,7 @@
 # 使用说明
 
 GitHub: [https://github.com/CheckeyZerone/Checkey-Sklearn](https://github.com/CheckeyZerone/Checkey-Sklearn)
-PyPI: [https://pypi.org/project/csklearing/](https://pypi.org/project/csklearing/)
+PyPI: [https://pypi.org/project/checkey-sklearn/](https://pypi.org/project/checkey-sklearn/)
 
 ## 版权声明
     Checkey-Sklearn
