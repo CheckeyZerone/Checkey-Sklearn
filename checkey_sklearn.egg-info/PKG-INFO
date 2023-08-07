@@ -1,10 +1,13 @@
-from setuptools import setup, find_packages
+Metadata-Version: 2.1
+Name: checkey-sklearn
+Version: 0.0.2
+Summary: 自己平时会使用的一些统计学和数学模型,目前有两个改进的朴素贝叶斯算法和一个TOPSIS
+Author: Checkey01
+Author-email: Chiaki2048@outlook.com
+Keywords: Machine Learning,Python
+License-File: LICENSE.txt
 
-VERSION = '0.0.2'
-DESCRIPTION = """
-自己平时会使用的一些统计学和数学模型,目前有两个改进的朴素贝叶斯算法和一个TOPSIS
-"""
-LONG_DESCRIPTION = """
+
 # 使用说明
 
 自己平时会使用的一些统计学和数学模型,目前有两个改进的朴素贝叶斯算法和一个TOPSIS
@@ -56,17 +59,3 @@ model.fit(x_train[, y_train, params])
 model.predict(x_test)  # or model.transform(x_test)
 ```
 
-"""
-
-
-setup(
-    name='checkey-sklearn',
-    version=VERSION,
-    author='Checkey01',
-    author_email='Chiaki2048@outlook.com',
-    description=DESCRIPTION,
-    long_description=LONG_DESCRIPTION,
-    packages=find_packages(),
-    install_requires=['numpy', 'pandas', 'scikit-learn'],
-    keywords=['Machine Learning', 'Python']
-)
