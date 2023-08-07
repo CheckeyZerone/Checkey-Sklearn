@@ -1,7 +1,7 @@
 # 使用说明
 
-    GitHub: [https://github.com/CheckeyZerone/Checkey-Sklearn](https://github.com/CheckeyZerone/Checkey-Sklearn)
-    PyPI: [https://pypi.org/project/csklearing/](https://pypi.org/project/csklearing/)
+GitHub: [https://github.com/CheckeyZerone/Checkey-Sklearn](https://github.com/CheckeyZerone/Checkey-Sklearn)
+PyPI: [https://pypi.org/project/csklearing/](https://pypi.org/project/csklearing/)
 
 ## 版权声明
     Checkey-Sklearn
@@ -40,6 +40,8 @@ scikit-learn
 
 ## 使用方法
 
-> model = Model(*params)
-> model.fit(x_train\[, y_train, params\])
-> model.predict(x_test)  # or model.transform(x_test)
+```python
+model = Model(*params)
+model.fit(x_train\[, y_train, params\])
+model.predict(x_test)  # or model.transform(x_test)
+```
