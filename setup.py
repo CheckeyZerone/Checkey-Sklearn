@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3'
+VERSION = '0.1.1'
 DESCRIPTION = """
 自己平时会使用的一些统计学和数学模型,目前有两个改进的朴素贝叶斯算法和一个TOPSIS
 """
@@ -32,7 +32,7 @@ PyPI: [https://pypi.org/project/checkey-sklearn/](https://pypi.org/project/check
 
 ## 安装方法
 ```commandline
-pip install checkey-sklearn
+pip install chlearn
 ```
 
 ## 依赖的第三方模块包

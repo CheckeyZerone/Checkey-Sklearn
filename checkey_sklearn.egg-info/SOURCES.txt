@@ -1,8 +1,0 @@
-LICENSE.txt
-setup.cfg
-setup.py
-checkey_sklearn.egg-info/PKG-INFO
-checkey_sklearn.egg-info/SOURCES.txt
-checkey_sklearn.egg-info/dependency_links.txt
-checkey_sklearn.egg-info/requires.txt
-checkey_sklearn.egg-info/top_level.txt
