@@ -42,6 +42,6 @@ scikit-learn
 
 ```python
 model = Model(*params)
-model.fit(x_train\[, y_train, params\])
+model.fit(x_train[, y_train, params])
 model.predict(x_test)  # or model.transform(x_test)
 ```
